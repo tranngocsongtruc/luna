@@ -1,0 +1,7 @@
+{
+  "name": "AI Personal Assistant",
+  "description": "An intelligent companion for enhanced productivity and understanding. This app leverages Google's Gemini models for various assistance tasks and includes features like a Context Explainer, Note Taker, Resource Finder, Educational Assistant, Emergency Guide, and Scheduler.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
